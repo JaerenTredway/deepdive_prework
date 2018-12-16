@@ -1,2 +1,2 @@
 # deepdive_prework
-The prework for Fullstack bootcamp.
+Deepdive prework screencast 1: Configuring PHPStorm
